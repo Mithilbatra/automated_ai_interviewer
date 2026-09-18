@@ -29,7 +29,7 @@ const page = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/modamaan/Ai-mock-Interview">
+                  href="https://github.com/Mithilbatra/automated_ai_interviewer">
                   <FaGithub className="w-10 h-8" />
                 </a>
               </div>
